@@ -1,16 +1,22 @@
-## Hi there 👋
+## Colin Clough
 
-<!--
-**colin24-2003/colin24-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Colin Clough, I'm a student at Brigham Young University-Idaho interested in Quantitative Research, Machine Learning, Rust development, Statistics and Data Science! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning Rust and more about ML and I am really enjoying it!
+- My goals are to learn more about polars compared to pandas for data science. I am also exploring R for statistical computing and using predictive models to build cool projects.
+- Ask me about anything related to technology or math and I'd love to chat and learn from others.
+
+## Technologies and Tools
+
+- Proficient in: Python, C#, Pandas, NumPy, (learning Rust and C++)
+- Skills: Math, Statistics, LeetCode problems, Learning, Communication.
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/colin-clough-481579302/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
